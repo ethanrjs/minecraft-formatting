@@ -1,0 +1,26 @@
+{
+    "name": "minecraft-formatting",
+    "version": "1.0.0",
+    "description": "A library for Minecraft-style text formatting in the console",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "minecraft",
+        "formatting",
+        "console",
+        "colors",
+        "ansi"
+    ],
+    "author": "ethanrjs",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ethanrjs/minecraft-formatting.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ethanrjs/minecraft-formatting/issues"
+    },
+    "homepage": "https://github.com/ethanrjs/minecraft-formatting#readme"
+}
